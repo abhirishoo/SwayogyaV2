@@ -1,0 +1,94 @@
+extend: {
+    colors: {
+      hoverColor: "#FFC000",
+      brightColor: "#dd8036",
+      backgroundColor: "#36ae9a",
+    },
+  },
+
+  SWA-KNEE
+
+  #Home Section 
+    Swayogya Rehab Solutions Pvt Ltd
+    Presents - “SWA-KNEE” - the Knee Osteoarthritis Relief System!
+    With “SWA-KNEE” you will “Forget Pain Walk and Run Again”
+
+  #About Section 
+
+    Are you tired of dealing with knee pain, stiffness, and limited mobility due to knee osteoarthritis? Our state-of-the-art “SWA-KNEE” devices are designed to help alleviate knee osteoarthritis, including knee pain, functionality, and overall health of the knee joint.
+
+    Features: 
+    Easy to use, portable and IoT enabled device 
+    Rechargeable battery 
+    Advanced PEMF technology 
+    Proven to reduce knee pain 
+    Improves knee functionality 
+    Promotes overall health of the knee joint
+
+
+  
+  #Services section 
+
+    1.PEMF Therapy Devices
+    2.Rehabilitation Services
+    3.Educational Resources & Training
+    4.Personalized Consultation and Technical Support
+
+Product Video: https://www.youtube.com/watch?v=IfQyVm8Kftc 
+
+
+  #Doctors section 
+  const data = [
+    {
+      img: "/src/assets/img/doc1.jpg",
+      name: "Dr. Serena Mitchell",
+      specialties: "Orthopedic Surgeon",
+    },
+    {
+      img: "/src/assets/img/doc2.jpg",
+      name: "Dr. Julian Bennett",
+      specialties: "Cardiologist",
+    },
+    {
+      img: "/src/assets/img/doc3.jpg",
+      name: "Dr. Camila Rodriguez",
+      specialties: "Pediatrician",
+    },
+    {
+      img: "/src/assets/img/doc4.jpg",
+      name: "Dr. Victor Nguyen",
+      specialties: "Neurologist",
+    },
+    {
+      img: "/src/assets/img/doc5.jpg",
+      name: "Dr. Ethan Carter",
+      specialties: "Dermatologist",
+    },
+    {
+      img: "/src/assets/img/doc6.jpg",
+      name: "Dr. Olivia Martinez",
+      specialties: "Ophthalmologist",
+    },
+  ];
+
+
+  #Blog section 
+
+    An ISO 13485 certified private limited company
+    Registered under DIPP, The Ministry of Commerce and Industry, Govt of India, and The Department of MSME, Start-UP Odisha.
+
+    At Swayogya, we believe in the transformative power of technology to redefine healthcare. Driven by a commitment to innovation and a dedication to enhancing lives, we are at the forefront of development of Pulsed Electromagnetic Field (PEMF) therapy devices for knee osteoarthritis. With a keen focus on research and development, Swayogya stands at the intersection of science and societal benefit, striving to deliver not just healthcare solutions, but hope and improved quality of life to individuals suffering from chronic conditions. Join us on this journey as we push the boundaries of medical technology, making accessible, high-quality, and effective treatment a reality for all.
+
+    In our journey to innovate, the 'SWA-KNEE' device underwent rigorous design, prototyping, and testing phases, leading to the determination of optimal PEMF parameters for knee OA treatment. Through our clinical trials, we observed significant improvements in pain reduction, knee functionality, and quality of life among participants, demonstrating the efficacy of PEMF therapy. Our work is grounded in the belief that everyone deserves access to advanced, safe, and effective medical care. We invite you to explore how Swayogya is making a difference in the lives of individuals around the globe.
+
+
+
+  #Footer section
+
+  Our team of dedicated doctors, each specializing in unique fields such as orthopedics, cardiology, pediatrics, neurology, dermatology, and more.
+
+  Address: Swayogya Rehab Solutions Pvt Ltd, Room No 206 (C), School of Chemical Technology, KIIT-TBI, KIT University, Bhubaneswar, India
+
+  swayogya19@gmail.com 
+
+  9079938655
